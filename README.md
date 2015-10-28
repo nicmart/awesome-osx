@@ -30,6 +30,7 @@
 - [Setup](#setup)
     - [OS X 10.9 Mavericks](#os-x-109-mavericks-setup)
     - [OS X 10.10 Yosemite](#os-x-1010-yosemite-setup)
+    - [OS X 10.11 El Capitan](#os-x-1011-elcapitan-setup)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
 - [Discussion Forums](#discussion-forums)
@@ -45,6 +46,7 @@
 ### Audio
 
 - [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon]](https://github.com/audacity/audacity)
+- [Cog](http://cogx.org/) - A free open source audio player for OS X. [![Open-Source Software][OSS Icon]](https://bitbucket.org/mamburu/cog/)
 - [VOX Player](https://coppertino.com/vox/mac) - Play numerous lossy and lossless audio formats.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/p/xld/source/checkout)
 
@@ -75,17 +77,18 @@
 ### Developers
 
 - [Base 2](http://menial.co.uk/base/) - A GUI for managing SQLite databases.
-- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - The Homebrew GUI App. [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew)
+- [Cakebrew](https://www.cakebrew.com/) - The Homebrew GUI App. [![Open-Source Software][OSS Icon]](https://github.com/brunophilipe/Cakebrew)
 - [Charles](http://www.charlesproxy.com) - Charles is a Proxy that allow you to view all of the HTTP and HTTPS traffic.
 - [Dash](https://kapeli.com/dash) - An API Documentation Browser and Code Snippet Manager.
+- [Gas Mask](https://github.com/2ndalpha/gasmask) - A simple hosts file manager which allows editing of host files and switching between them. [![Open-Source Software][OSS Icon]](https://github.com/2ndalpha/gasmask)
 - [GitHub Desktop](https://mac.github.com/) - A GUI for using GitHub.
 - [GitUp](http://gitup.co/) - A simple but powerful Git OS X app. [![Open-Source Software][OSS Icon]](https://github.com/git-up/GitUp)
-- [Hosts](http://www.macupdate.com/app/mac/40003/hosts) - Edit hosts file.
+- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Edit hosts file. [![Open-Source Software][OSS Icon]](https://github.com/specialunderwear/Hosts.prefpane)
 - [ImageAlpha](http://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha)
 - [ImageOptim](https://imageoptim.com/) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageOptim)
+- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface.
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links.
 - [Paw](https://luckymarmot.com/paw) - The ultimate REST client.
-- [Insomnia](http://insomnia.rest) - A modern REST client with an beautiful interface.
 - [PSequel](http://www.psequel.com/) - A PostgreSQL GUI tool.
 - [Sequel Pro](http://www.sequelpro.com/) - A MySQL database manager. [![Open-Source Software][OSS Icon]](https://github.com/sequelpro/sequelpro)
 - [Sip](http://theolabrothers.com/) - A simple color picker for developers.
@@ -100,6 +103,7 @@
 ### E-Book Utilities
 
 - [Calibre](http://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion. [![Open-Source Software][OSS Icon]](https://github.com/kovidgoyal/calibre)
+- [Kindle App](http://www.amazon.com/gp/help/customer/display.html?nodeId=201246110) - Amazon Kindle App for OS X.
 - [Kitabu](https://www.kitabu.me/) - Desktop ePub ebook reader.
 
 
@@ -109,7 +113,7 @@
 - [Brackets](http://brackets.io/) - A modern text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/adobe/brackets)
 - [Emacs](https://github.com/railwaycat/mirror-emacs-mac) - Port of Emacs to work as an OS X app. [![Open-Source Software][OSS Icon]](https://github.com/railwaycat/mirror-emacs-mac)
 - [Light Table](http://lighttable.com/) - A customizable editor with REPL support for Clojure, JavaScript, Python and others. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable)
-- [MacVim](https://github.com/b4winckler/macvim) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/b4winckler/macvim)
+- [MacVim](https://github.com/macvim-dev/macvim) - Vim, the text editor. [![Open-Source Software][OSS Icon]](https://github.com/macvim-dev/macvim)
 - [Sublime Text 3](http://www.sublimetext.com/) - The sophisticated text editor.
 - [TextMate](https://macromates.com/) - A graphical text editor. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate)
 - [VimR](http://vimr.org) - Vim, refined. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr)
@@ -166,6 +170,7 @@
 - [SelfControl](https://selfcontrolapp.com/) - Block access to distracting websites. [![Open-Source Software][OSS Icon]](https://github.com/SelfControlApp/selfcontrol/)
 - [Spectacle](http://spectacleapp.com/) - Easily organize windows without using a mouse. [![Open-Source Software][OSS Icon]](https://github.com/eczarny/spectacle)
 - [TextExpander](https://smilesoftware.com/TextExpander/index.html) - Create custom keyboard shortcuts for frequently-used text and pictures.
+- [Todoist](https://todoist.com/mac) - Cross-platform to-do manager with mobile apps, great UI and has some optional premium features.
 - [Zooom/2](http://coderage-software.com/zooom/index_green/index.html) - Mac window management.
 
 
@@ -191,6 +196,7 @@
 - [Bartender](http://www.macbartender.com/) - Organize your menu bar apps.
 - [BeardedSpice](http://beardedspice.com/) - Control web based media players with the media keys found on Mac keyboards. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice)
 - [BetterZip](http://macitbetter.com/) - A very capable and full-featured archive manager.
+- [BitBar](https://github.com/matryer/bitbar) - Display output of any script to the menu bar. [![Open-Source Software][OSS Icon]](https://github.com/matryer/bitbar)
 - [ControlPlane](http://www.controlplaneapp.com/) - Automate running tasks based on where you are or what you do. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane)
 - [DaisyDisk](http://www.daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [EtreCheck](http://www.etresoft.com/etrecheck) - Output system information and configuration to get more informed help from Apple support professionals. [![Open-Source Software][OSS Icon]](https://github.com/etresoft/EtreCheck)
@@ -206,6 +212,7 @@
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/uranusjr/macdown)
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup)
 - [Media Converter](http://media-converter.sourceforge.net/) - Simple (drag and drop) but advanced media conversion. [![Open-Source Software][OSS Icon]](http://sourceforge.net/p/media-converter/code/HEAD/tree/)
+- [Menubar Colors](https://github.com/nvzqz/Menubar-Colors) - Convenient access to the system color panel. [![Open-Source Software][OSS Icon]](https://github.com/nvzqz/Menubar-Colors)
 - [Monodraw](http://monodraw.helftone.com/) - A powerful ASCII art editor.
 - [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/)
 - [Numi](http://numi.io/) - Beautiful calculator app.
@@ -243,6 +250,7 @@
 ## Command Line Utilities
 
 - [Awesome OS X Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things.
+- [Mac OS X Manual Pages](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/) - Apple's official man page reference which lists all general commands in Section 1.
 
 
 ## OS X Utilities
@@ -264,12 +272,17 @@
 
 * https://gist.github.com/kevinelliott/0726211d17020a6abc1f
 
+### OS X 10.11 El Capitan Setup
+
+* https://gist.github.com/saetia/1623487
+
 
 ## Security
 
 * [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin.
+* [macchanger](https://acrogenesis.com/macchanger/) - Easily change your MAC Address [![Open-Source Software][OSS Icon]](https://github.com/acrogenesis/macchanger)
 * [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon]](https://github.com/etsy/MIDAS)
-* [OS-X-Yosemite-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
+* [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Yosemite-Security-and-Privacy-Guide)
 * [OSXAuditor](https://github.com/jipegit/OSXAuditor) - A free computer forensics tool. [![Open-Source Software][OSS Icon]](https://github.com/jipegit/OSXAuditor)
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa)
 * [Viscosity](https://www.sparklabs.com/viscosity/) - Fully-featured OpenVPN client, ready for enterprise deployment.
